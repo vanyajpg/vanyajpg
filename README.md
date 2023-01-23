@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanya</h1>
-<h3 align="center">A software engineer who is eager and curious to find all the ways code can help make a positive impact.</h3>
+<h3 align="center">I have always had an interest in brainstorming solutions for difficult problems. While I was doing my undergrad, I was introduced to several programming languages. Being able to write a block of code that was seamlessly understood and answered by the computer immediately triggered a spark of curiosity within me. Since then I have been on a mission to find new ways to incorporate code into my life.</h3>
 
 - 🔭 I’m currently working on **a social media adoption app**
 
