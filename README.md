@@ -3,7 +3,7 @@
 
 <p align="left">I have always had an interest in brainstorming solutions for difficult problems. While I was doing my undergrad, I was introduced to several programming languages. Being able to write a block of code that was seamlessly understood and answered by the computer immediately triggered a spark of curiosity within me. Since then I have been on a mission to find new ways to incorporate code into my life.</p>
 
-- 🔭 I’m currently working on **a social media adoption app**
+- 🔭 I’m currently working on **a social media yoga app**
 
 - 🌱 I have worked with **TALL stack and am currently learning the MERN stack**
 
