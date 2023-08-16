@@ -1,7 +1,10 @@
-<h1 align="left">Hi there, I'm Vanya!</h1>
+<h1 align="left">Greetings, I'm Vanya!</h1>
 
 
-<p align="left">I have always had an interest in brainstorming solutions for difficult problems. While I was doing my undergrad, I was introduced to several programming languages. Being able to write a block of code that was seamlessly understood and answered by the computer immediately triggered a spark of curiosity within me. Since then I have been on a mission to find new ways to incorporate code into my life.</p>
+<p align="left">
+
+My journey into the world of programming began during my undergraduate studies, but it was during the pandemic that I stumbled upon my true passion for coding. What started as a mere curiosity turned into a profound fascination, as I began experimenting with various small-scale projects to occupy my time. This seemingly modest endeavor evolved into something much greater, ultimately propelling me into the realm of software engineering.
+</p>
 
 - 🔭 I’m currently working on **a social media steps tracker app**
 
