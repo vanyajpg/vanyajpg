@@ -8,7 +8,7 @@ My journey into the world of programming began during my undergraduate studies, 
 
 - 🔭 I’m currently working on **a social media steps tracker app**
 
-- 🌱 I have worked with **TALL stack and am currently learning the MERN stack**
+- 🌱 I have worked with **TALL stack and am exploring the MERN stack**
   
 - 🌎 You can find my recent work on https://vanyasagam.netlify.app/#
 
