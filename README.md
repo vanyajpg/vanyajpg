@@ -10,7 +10,7 @@ My journey into the world of programming began during my undergraduate studies, 
 
 - 🌱 I have worked with **TALL stack and am exploring the MERN stack**
   
-- 🌎 You can find my recent work on <a href="https://vanyacodes.netlify.app"> my portfolio</a>
+- 🌎 You can find my recent work on <a href="https://vanyasagam.netlify.app"> my portfolio</a>
 
 - 📫 Reach out! **vanyasagam@gmail.com**
 
